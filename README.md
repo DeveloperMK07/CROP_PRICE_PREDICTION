@@ -1,4 +1,4 @@
-Overview
+<h2>Overview</h2><br>
 This project is a crop price prediction system that uses machine learning models to predict the price of various crops based on input parameters such as crop type, city, season, and temperature. The system includes a trained model, a Flask API for predictions, and a simple HTML front-end for user interaction.
 
 Project Structure
