@@ -1,8 +1,12 @@
 
-# Overview
-This project is a crop price prediction system that uses machine learning models to predict the price of various crops based on input parameters such as crop type, city, season, and temperature. The system includes a trained model, a Flask API for predictions, and a simple HTML front-end for user interaction.
+# 🚜 Crop Price Prediction System
 
-# Project Structure
+A smart **Crop Price Prediction System** that uses **Machine Learning** to predict prices of various crops based on **crop type**, **city**, **season**, and **temperature**. This project combines a trained **XGBoost** model, a **Flask API**, and a simple **HTML front-end** to provide real-time price predictions.
+
+---
+
+## 📁 Project Structure
+
 1.app.py: The Flask application that serves the API and static files.<br>
 2.index.html: The HTML file for the user interface, placed in the static directory.<br>
 3.xgb_model.pkl: The trained XGBoost model saved as a pickle file.<br>
