@@ -23,11 +23,8 @@ Enter the required information and submit the form. The predicted price will be 
 
 ---
 
-## License
+## Acknowledgments
 
-This project is licensed under the MIT License - see the LICENSE file for details.<br>
----
-<h3>Acknowledgments</h3><br>
 XGBoost<br>
 Flask<br>
 scikit-learn<br>
